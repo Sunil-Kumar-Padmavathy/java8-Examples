@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import com.SunilKumar.Padmavathy.java8.examples.anonymousClasses.Car;
 
-public class LambdaExpressionExample1 {
+public class LambdaExample1 {
 
 	public static void main(String... args) {
 

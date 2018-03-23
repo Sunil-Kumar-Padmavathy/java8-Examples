@@ -1,6 +1,6 @@
 package com.SunilKumar.Padmavathy.java8.examples.lambdaExpressions;
 
-public class LambdaExpressionExample3 {
+public class LambdaExample3Calculator {
 	
 	public static void main(String args []) {
 		

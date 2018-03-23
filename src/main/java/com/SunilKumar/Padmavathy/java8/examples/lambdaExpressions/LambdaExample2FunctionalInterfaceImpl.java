@@ -1,6 +1,6 @@
 package com.SunilKumar.Padmavathy.java8.examples.lambdaExpressions;
 
-public class LambdaExpressionExample2 {
+public class LambdaExample2FunctionalInterfaceImpl {
 
 	public static void main(String[] args) {
 		/**
